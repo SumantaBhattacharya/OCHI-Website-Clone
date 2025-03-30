@@ -23,10 +23,12 @@ dist-ssr
 *.sln
 *.sw?
 
-Fonts
-public
-eslint.config.js
-package-lock.json
-postcss.config.js
-tailwind.config.js
-vite.config.js
+# Fonts
+# public
+# eslint.config.js
+# package-lock.json
+# postcss.config.js
+# tailwind.config.js
+# vite.config.js
+
+# ochi

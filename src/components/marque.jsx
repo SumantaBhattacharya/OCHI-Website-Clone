@@ -7,7 +7,7 @@ const marque = () => {
     <div className="marque h-[29.6vw] w-full py-20 bg-[#003E36] rounded-tr-[1vw] rounded-tl-[1vw]">
       <div className="uppercase border-t-2 border-b-2 border-zinc-400 flex justify-center text-center text-[29vw] whitespace-nowrap overflow-hidden  pr-[2vw] ">
         <motion.h1 initial={{x:0}} animate={{x: "-100%"}} transition={{ease: "linear", repeat: Infinity, duration: 5}} className=" leading-none tracking-tight text-[#E8E6E3] -mb-[3vw] -mt-[6.3vw] ml-[2vw] ">
-          We are Ochi 
+          We are Ochi   
         </motion.h1>
         <motion.h1 initial={{x:0}} animate={{x: "-100%"}} transition={{ease: "linear", repeat: Infinity, duration: 5}} className="leading-none tracking-tight text-[#E8E6E3] -mb-[3vw] -mt-[6.3vw] ml-[2vw] ">
           We are Ochi 

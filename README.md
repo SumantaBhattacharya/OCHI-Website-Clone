@@ -266,3 +266,21 @@ https://easings.net/
                 </motion.span>
               ))}
 ```
+
+## Files
+
+### App.css
+
+This file contains the global CSS styles for the application.
+
+### App.jsx
+
+This is the main React component file. It imports other components and sets up the application's routing.
+
+### index.css
+
+This file contains the global CSS styles for the application.
+
+### main.jsx
+
+This file is the entry point of the application. It renders the `App` component into the DOM.
